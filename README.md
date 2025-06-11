@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 🧮 Assignment Problem Solver – Enterprise-Ready Optimization Tool
 
 ##  Overview
