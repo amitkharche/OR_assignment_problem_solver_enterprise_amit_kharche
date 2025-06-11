@@ -1,7 +1,7 @@
 
 ---
 
-# 🧮 Assignment Problem Solver – Enterprise-Ready Optimization Tool
+# 🧮 Assignment Problem Solver – Optimization Tool
 
 ##  Overview
 This project solves the classic **Assignment Problem** using the **Hungarian Algorithm** (a.k.a. Munkres algorithm), which is designed to minimize the total cost of assigning agents (e.g., employees, machines) to tasks (e.g., jobs, routes). 
@@ -180,4 +180,12 @@ OR_assignment_problem_solver/
 
 **Optimize intelligently. Deploy effortlessly.**
 
+---
+
+## Contact
+
+If you have questions or want to collaborate, feel free to connect with me on
+- [LinkedIn](https://www.linkedin.com/in/amit-kharche)  
+- [Medium](https://medium.com/@amitkharche14)  
+- [GitHub](https://github.com/amitkharche)
 ---
