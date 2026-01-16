@@ -185,7 +185,7 @@ OR_assignment_problem_solver/
 ## Contact
 
 If you have questions or want to collaborate, feel free to connect with me on
-- [LinkedIn](https://www.linkedin.com/in/amit-kharche)  
-- [Medium](https://medium.com/@amitkharche14)  
+- [LinkedIn](https://www.linkedin.com/in/amitkharche)  
+- [Medium](https://medium.com/@amitkharche)  
 - [GitHub](https://github.com/amitkharche)
 ---
